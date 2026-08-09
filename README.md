@@ -26,7 +26,7 @@ adding new file then git status will say  untracked files:
 <br>
 types of git status 
 <br>
-1.<untracked new files that git doesn't yet track>
+1.<untracked new files that git does not yet track>
 <br>
 2.<modified  changed already added to git files> 
 <br>
