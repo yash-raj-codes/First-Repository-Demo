@@ -40,3 +40,11 @@ two step process for commit <add ---⏩  commit>
 for add   'git add <-file name->
 <br>
 for commit git commit -m "some message"
+<br>
+<br>
+<br>
+push command <br>  push - upload local repo content to remote repo
+<br>
+<br>
+<br>
+git push origin main 
