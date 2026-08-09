@@ -20,6 +20,23 @@ to change directory use cd <folder name>   and   cd .. for going up folder
 git status same if we does not save it (working tree clean)  and if changes save in vs code and not commited yet then git status will give (changes not stored for commit:  modified:   <file name>)
 <br>
 <br>
-adding new file then git status will say 
+adding new file then git status will say  untracked files:  
+<new file name>
+<br>
+<br>
+types of git status 
+<br>
+1.<untracked new files that git doesn't yet track>
+<br>
+2.<modified  changed already added to git files> 
+<br>
+3.<staged   file ready to be commited >
+<br>
+4.<unmodified unchanged files added to the git and no changed after git repositary> 
+<br>
 <br>
 two step process for commit <add ---⏩  commit>
+<br>
+for add   'git add <-file name->
+<br>
+for commit git commit -m "some message"
